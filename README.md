@@ -7,6 +7,8 @@
   <img src="docs/image/predictor-diagram.png" >
 </div>
 
+- <b>자세한 내용은 [wiki](https://github.com/AnYoungMin/stream-predictor/wiki)를 참조바랍니다.</b>
+
 ## 실행
 ### 환경변수
 ##### required
